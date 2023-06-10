@@ -1,0 +1,169 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Gen06_23_MVCV2
+build_property.RootNamespace = Gen06_23_MVCV2
+build_property.ProjectDir = C:\Users\TRNET-13\source\repos\Gen 06_23\MVC\Gen06_23_MVCV2\Gen06_23_MVCV2\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\TRNET-13\source\repos\Gen 06_23\MVC\Gen06_23_MVCV2\Gen06_23_MVCV2
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/TRNET-13/source/repos/Gen 06_23/MVC/Gen06_23_MVCV2/Gen06_23_MVCV2/Views/Acceso/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TRNET-13/source/repos/Gen 06_23/MVC/Gen06_23_MVCV2/Gen06_23_MVCV2/Views/Categorias/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TRNET-13/source/repos/Gen 06_23/MVC/Gen06_23_MVCV2/Gen06_23_MVCV2/Views/Categorias/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TRNET-13/source/repos/Gen 06_23/MVC/Gen06_23_MVCV2/Gen06_23_MVCV2/Views/Categorias/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TRNET-13/source/repos/Gen 06_23/MVC/Gen06_23_MVCV2/Gen06_23_MVCV2/Views/Categorias/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TRNET-13/source/repos/Gen 06_23/MVC/Gen06_23_MVCV2/Gen06_23_MVCV2/Views/Categorias/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TRNET-13/source/repos/Gen 06_23/MVC/Gen06_23_MVCV2/Gen06_23_MVCV2/Views/Cursoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29lc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TRNET-13/source/repos/Gen 06_23/MVC/Gen06_23_MVCV2/Gen06_23_MVCV2/Views/Cursoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29lc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TRNET-13/source/repos/Gen 06_23/MVC/Gen06_23_MVCV2/Gen06_23_MVCV2/Views/Cursoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29lc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TRNET-13/source/repos/Gen 06_23/MVC/Gen06_23_MVCV2/Gen06_23_MVCV2/Views/Cursoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29lc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TRNET-13/source/repos/Gen 06_23/MVC/Gen06_23_MVCV2/Gen06_23_MVCV2/Views/Cursoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29lc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TRNET-13/source/repos/Gen 06_23/MVC/Gen06_23_MVCV2/Gen06_23_MVCV2/Views/Direcciones/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZWNjaW9uZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TRNET-13/source/repos/Gen 06_23/MVC/Gen06_23_MVCV2/Gen06_23_MVCV2/Views/Direcciones/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZWNjaW9uZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TRNET-13/source/repos/Gen 06_23/MVC/Gen06_23_MVCV2/Gen06_23_MVCV2/Views/Direcciones/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZWNjaW9uZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TRNET-13/source/repos/Gen 06_23/MVC/Gen06_23_MVCV2/Gen06_23_MVCV2/Views/Direcciones/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZWNjaW9uZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TRNET-13/source/repos/Gen 06_23/MVC/Gen06_23_MVCV2/Gen06_23_MVCV2/Views/Direcciones/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZWNjaW9uZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TRNET-13/source/repos/Gen 06_23/MVC/Gen06_23_MVCV2/Gen06_23_MVCV2/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TRNET-13/source/repos/Gen 06_23/MVC/Gen06_23_MVCV2/Gen06_23_MVCV2/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TRNET-13/source/repos/Gen 06_23/MVC/Gen06_23_MVCV2/Gen06_23_MVCV2/Views/Instructores/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvcmVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TRNET-13/source/repos/Gen 06_23/MVC/Gen06_23_MVCV2/Gen06_23_MVCV2/Views/Instructores/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvcmVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TRNET-13/source/repos/Gen 06_23/MVC/Gen06_23_MVCV2/Gen06_23_MVCV2/Views/Instructores/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvcmVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TRNET-13/source/repos/Gen 06_23/MVC/Gen06_23_MVCV2/Gen06_23_MVCV2/Views/Instructores/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvcmVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TRNET-13/source/repos/Gen 06_23/MVC/Gen06_23_MVCV2/Gen06_23_MVCV2/Views/Instructores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvcmVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TRNET-13/source/repos/Gen 06_23/MVC/Gen06_23_MVCV2/Gen06_23_MVCV2/Views/Perfiles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyZmlsZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TRNET-13/source/repos/Gen 06_23/MVC/Gen06_23_MVCV2/Gen06_23_MVCV2/Views/Perfiles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyZmlsZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TRNET-13/source/repos/Gen 06_23/MVC/Gen06_23_MVCV2/Gen06_23_MVCV2/Views/Perfiles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyZmlsZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TRNET-13/source/repos/Gen 06_23/MVC/Gen06_23_MVCV2/Gen06_23_MVCV2/Views/Perfiles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyZmlsZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TRNET-13/source/repos/Gen 06_23/MVC/Gen06_23_MVCV2/Gen06_23_MVCV2/Views/Perfiles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyZmlsZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TRNET-13/source/repos/Gen 06_23/MVC/Gen06_23_MVCV2/Gen06_23_MVCV2/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TRNET-13/source/repos/Gen 06_23/MVC/Gen06_23_MVCV2/Gen06_23_MVCV2/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TRNET-13/source/repos/Gen 06_23/MVC/Gen06_23_MVCV2/Gen06_23_MVCV2/Views/Usuarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TRNET-13/source/repos/Gen 06_23/MVC/Gen06_23_MVCV2/Gen06_23_MVCV2/Views/Usuarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TRNET-13/source/repos/Gen 06_23/MVC/Gen06_23_MVCV2/Gen06_23_MVCV2/Views/Usuarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TRNET-13/source/repos/Gen 06_23/MVC/Gen06_23_MVCV2/Gen06_23_MVCV2/Views/Usuarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TRNET-13/source/repos/Gen 06_23/MVC/Gen06_23_MVCV2/Gen06_23_MVCV2/Views/Usuarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TRNET-13/source/repos/Gen 06_23/MVC/Gen06_23_MVCV2/Gen06_23_MVCV2/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TRNET-13/source/repos/Gen 06_23/MVC/Gen06_23_MVCV2/Gen06_23_MVCV2/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TRNET-13/source/repos/Gen 06_23/MVC/Gen06_23_MVCV2/Gen06_23_MVCV2/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ph7txrouj1

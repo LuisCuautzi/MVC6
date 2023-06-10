@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Gen06_23_MVCV2.props" />
+</Project>

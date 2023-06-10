@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Gen06_23_MVCV2.props" />
+</Project>
